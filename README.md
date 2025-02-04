@@ -1,4 +1,3 @@
-Case Question:
 You have been hired by a car rental company to build a distributed data storage 
 system using a remote object paradigm that will allow one to store and access 
 information relating to rental cars, manufacturers of cars and users who rent cars.
@@ -144,5 +143,5 @@ Note, the rental cars returned may contain duplicates if the user rented the car
 question more than once.
 You can assume that the user in question has previously been added using the 
 add_user method.
-The information returned by this method should have the property that it can be
+The information returned by this method should have the property that it can be 
 easily interpreted when displayed using the Python print function.
